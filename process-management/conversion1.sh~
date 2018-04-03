@@ -1,0 +1,6 @@
+n=100
+i=-40
+echo "finding"
+f=$(((
+echo "found $f"
+
